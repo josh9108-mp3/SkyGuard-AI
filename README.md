@@ -1,5 +1,6 @@
 # SkyGuard AI — executable AWS anomaly detector
-**Live Demo- Youtube Link: https://www.youtube.com/watch?v=yfIn1he6H6E**
+**Working prorotype: https://skyguard-ai-ntzkjggbh2pqtxoqrys37w.streamlit.app/**
+**Live Demo- Youtube Link: https://www.youtube.com/watch?v=d0WnG0XgYm8**
 
 For the included observed Indian station data and runnable replay, start with
 [NOAA_DATA.md](NOAA_DATA.md). For future authorized IMD AWS imports, see
